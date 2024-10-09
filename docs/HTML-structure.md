@@ -31,7 +31,9 @@
 ### html, head, body
 
 ```html```定义了HTML文档，**必须**从头括到尾
+
 ```head```定义了HTML的头部（不可视范围），**必须**写在```html```的最前面
+
 ```body```定义了HTML的主体（可视范围），写在```head```的后面
 
 ### title
@@ -39,6 +41,7 @@
 ```title```定义了HTML的标题，显示于网页的标题栏，如果写```head```就**必须**写```title```
 
 建议大家一定要写```title```，这有利于搜索引擎的优化（SEO）
+
 ```html
 <!DOCTYPE html>
 <html>
