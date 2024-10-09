@@ -9,5 +9,5 @@
 
 | 目录 |
 | --- |
-| [开始之前](/docs/beginning.md) |
+| [第一步](/docs/beginning.md) |
 | ... |
