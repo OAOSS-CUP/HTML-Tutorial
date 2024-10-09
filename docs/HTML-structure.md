@@ -18,6 +18,8 @@
 </html>
 ```
 
+## 详解
+
 ### DOCTYPE
 
 ```DOCTYPE```是document type的缩写，**必须写**，要写在**整个文档的最前面**
