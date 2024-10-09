@@ -8,5 +8,6 @@
 
 | 目录 |
 | --- |
-| [第一步](/docs/beginning.md) |
+| [第一步](docs/beginning.md) |
+| [HTML 结构](docs/HTML-structure.md) |
 | ... |
