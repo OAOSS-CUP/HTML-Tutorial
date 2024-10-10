@@ -34,17 +34,14 @@
 
 ### 颜色变化
 
-未点过的超链接是
+> [!IMPORTANT]\
+> GitHub 不支持内联HTML样式，因此无法看到下方的颜色和下划线，如果想看请自行下载到本地查看
 
-> <span style="color:blue; text-decoration:underline;">蓝色带下划线</span>
+未点过的超链接是 <span style="color:blue; text-decoration:underline;">蓝色带下划线</span>
 
-点过的超链接是
+点过的超链接是 <span style="color:purple; text-decoration:underline;">紫色带下划线</span>
 
-> <span style="color:purple; text-decoration:underline;">紫色带下划线</span>
-
-点超链接的时候是
-
-> <span style="color:red; text-decoration:underline;">红色带下划线</span>
+点超链接的时候是 <span style="color:red; text-decoration:underline;">红色带下划线</span>
 
 ### 鼠标变化
 
