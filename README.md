@@ -10,4 +10,6 @@
 | --- |
 | [第一步](docs/beginning.md) |
 | [HTML 结构](docs/HTML-structure.md) |
+| [标题](docs/h1-h6.md) |
+| [段落、换行、水平线](docs/p-br-hr.md) |
 | ... |
