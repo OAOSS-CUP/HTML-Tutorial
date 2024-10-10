@@ -34,11 +34,17 @@
 
 ### 颜色变化
 
-未点过的超链接是 <span style="color:blue; text-decoration:underline;">蓝色带下划线</span>
+未点过的超链接是
 
-点过的超链接是 <span style="color:purple; text-decoration:underline;">紫色带下划线</span>
+> <span style="color:blue; text-decoration:underline;">蓝色带下划线</span>
 
-点超链接的时候是 <span style="color:red; text-decoration:underline;">红色带下划线</span>
+点过的超链接是
+
+> <span style="color:purple; text-decoration:underline;">紫色带下划线</span>
+
+点超链接的时候是
+
+> <span style="color:red; text-decoration:underline;">红色带下划线</span>
 
 ### 鼠标变化
 
