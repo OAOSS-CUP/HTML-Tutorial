@@ -6,7 +6,7 @@
 
 ## 标签
 
- `table` 定义表格。表格由 `tr`（行）、`th`（表头单元格）和 `<td>`（数据单元格）组成。
+ `table` 定义表格。表格由 `tr`（行）、`th`（表头单元格）和 `<td>`（数据单元格）组成
 
 ```html
 <table border=1 width=100px height=100px>
@@ -45,7 +45,7 @@
 
 ## 合并单元格
 
-用 `colspan`（列） 和 `rowspan`（行） 来合并单元格。
+用 `colspan`（列） 和 `rowspan`（行） 来合并单元格
 
 ```html
 <table border="1">
