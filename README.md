@@ -13,4 +13,6 @@
 | [标题](docs/h1-h6.md) |
 | [段落、换行、水平线](docs/p-br-hr.md) |
 | [图片、超链接、路径](docs/img-a-path.md) |
+| [文本](docs/text.md) |
+| [列表](docs/ol-ul.md) |
 | ... |
