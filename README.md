@@ -15,4 +15,6 @@
 | [图片、超链接、路径](docs/img-a-path.md) |
 | [文本](docs/text.md) |
 | [列表](docs/ol-ul.md) |
+| [表格](docs/table.md) |
+| [表单](docs/form.md) |
 | ... |
