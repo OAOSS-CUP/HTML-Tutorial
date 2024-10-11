@@ -57,9 +57,8 @@
     <!-- disabled表示禁用 在页面中呈现灰色 -->
     <!-- placeholder可以指定文本框输入前的信息提示 -->
 
-    <label for="text">*普通文本框： </label><input type="text" name="text" id="text"><br>
+    普通文本框： <input type="text" name="text"><br>
 
-    <!-- type="password" 表示密码文本框，其输入的内容以密文的形式出现 -->
     密码： <input type="password" name="password"><br>
 
     <!-- type="number" 表示数字数据库，只允许用户输入数字，小数或者负数 -->
@@ -87,15 +86,12 @@
     <!-- type="button"在value属性中可以显示按钮的内容 -->
     普通按钮：<input type="button" value="普通按钮"><br>
 
-    <!-- type="submit" 结合(form)表单域实现提交效果
-	在表单中 submit 点击之后会自从触发提交行为，会向action指定的地址提交，请求方式为method指         定的方式通常表单提交为post
-	-->
+    <!-- type="submit" 结合表单域实现提交效果
+	在表单中点击 submit 后会触发提交行为，向action指定的地址提交，请求方式为method指定的方式，通常为post -->
     提交：<input type="submit" value="提交"><br>
 
-    <!-- 图片会被当作一个按钮 -->
     <input type="image" src="思为哥哥.png" height="50">
 
-    <!-- reset表示重置按钮，会让表单回到默认值-->
     重置：<input type="reset" value="重置"><br>
 
     <!-- accept属性可以过滤文件 -->
