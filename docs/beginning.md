@@ -19,7 +19,6 @@
 | Chinese (Simplified)（简体中文） | VScode中文适配 |
 | open in browser | 在浏览器中查看HTML |
 | Code Spell Checker | 检查拼写错误 |
-| Code Spell Checker | 检查拼写错误 |
 
 ## VScode 快捷键
 
